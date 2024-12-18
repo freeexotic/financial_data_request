@@ -1,0 +1,6 @@
+# ninja log v6
+1	93	1734517538301643275	build.ninja	9855216b2ba8fd8d
+2	439	1734444832886326806	CMakeFiles/trading_app.dir/src/main.cpp.o	c0079b2701fa399
+5	437	1734470745499568207	CMakeFiles/trading_app.dir/src/curl_functions.cpp.o	c9de1070a16b648a
+2	590	1734444409132348399	CMakeFiles/trading_app.dir/src/trading_functions.cpp.o	b0a47659fd66968b
+437	540	1734470745931581465	trading_app	da9dea2968047476
